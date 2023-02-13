@@ -23,6 +23,9 @@ public class Client {
 			System.out.println(d);
 		}
 		System.out.println(list.size());
+		//jsdgs
+		///sdjfghksg
+		//ksdjjfk
 		System.out.println("\n");
 		System.out.println("-------Locations--------");
 		for (Location l : set) {
